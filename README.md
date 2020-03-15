@@ -9,7 +9,9 @@ Conclusions:
 
 ![](Challenge%201_Outcomes%20based%20on%20goals_plays.png)
 
-3. Based on the launch date, May had the highest number of successful campaigns and December had the least. It may indicate May can be a good month to launch theater types of campaigns. However, to further understand whether May really is a relatively better month to launch campaigns, we need to compare the total number of campaigns launched in each month and successful percentage in each month. According to the pivot table, there were most campaigns (166 in total) launched in May. This may explain why May had the highest number of successful campaigns. If we further calculate each month’s successful percentage, we can find that May only has slightly higher successful rate (67%). 
+3. Based on the launch date, May had the highest number of successful campaigns and December had the least. It may indicate May can be a good month to launch theater types of campaigns. However, to further understand whether May really is a relatively better month to launch campaigns, we need to compare the total number of campaigns launched in each month and successful percentage in each month. According to the pivot table, there were most campaigns (166 in total) launched in May. This may explain why May had the highest number of successful campaigns. If we further calculate each month’s successful percentage, we can find that May only has a slightly higher successful rate (67%). 
+
+![](Challenge%201_Outcomes%20based%20on%20date_theater.png)
 
 Limitations & Suggestions:
 
